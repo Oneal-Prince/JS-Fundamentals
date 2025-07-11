@@ -1,7 +1,4 @@
-let a = 'C is fun';
-let b = 'Python is cool';
-let c = 'Javascript is amazing';
 
-console.log(a);
-console.log(b);
-console.log(c);
+console.log('C is fun');
+console.log('Python is cool');
+console.log('Javascript is amazing');
