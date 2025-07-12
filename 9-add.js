@@ -11,4 +11,4 @@ if (isNaN(a) || isNaN(b)) {
     process.exit(1);
 }
 
-console.log(`${a} + ${b} = ${add(a, b)}`);
+console.log(add(a, b));
